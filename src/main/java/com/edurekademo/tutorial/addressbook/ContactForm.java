@@ -13,13 +13,14 @@ import com.vaadin.v7.data.fieldgroup.FieldGroup;
 import com.vaadin.v7.ui.DateField;
 import com.vaadin.v7.ui.TextField;
 
-/* Create custom UI Components.
+/* Create custom UI Components. 
  *
  * Create your own Vaadin components by inheritance and composition.
  * This is a form component inherited from VerticalLayout. Use
  * Use BeanFieldGroup to bind data fields from DTO to UI fields.
  * Similarly named field by naming convention or customized
  * with @PropertyId annotation.
+ -- to check the build
  */
 public class ContactForm extends FormLayout {
 
